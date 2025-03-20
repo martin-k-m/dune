@@ -1,5 +1,5 @@
 {
-  "name": "dune",
+  "name": "@martin-k-m/dune",
   "version": "0.0.1",
   "description": "A JavaScript framework for science and mathematics.",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
     "test": "node --test tests/"
   },
   "keywords": ["science", "math", "framework", "physics", "chemistry", "calculus"],
-  "author": "Martin Muskov",
+  "author": "Your Name",
   "license": "MIT",
   "repository": {
     "type": "git",
