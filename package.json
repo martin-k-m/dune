@@ -1,18 +1,25 @@
 {
   "name": "@martin-k-m/dune",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A JavaScript framework for science and mathematics.",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "test": "node --test tests/"
   },
-  "keywords": ["science", "math", "framework", "physics", "chemistry", "calculus"],
-  "author": "Your Name",
+  "keywords": [
+    "science",
+    "math",
+    "framework",
+    "physics",
+    "chemistry",
+    "calculus"
+  ],
+  "author": "Martin Muskov",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/martin-k-m/dune.git"
+    "url": "git+https://github.com/martin-k-m/dune.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
