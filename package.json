@@ -1,0 +1,20 @@
+{
+  "name": "dune",
+  "version": "0.0.1",
+  "description": "A JavaScript framework for science and mathematics.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "keywords": ["science", "math", "framework", "physics", "chemistry", "calculus"],
+  "author": "Martin Muskov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martin-k-m/dune.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
